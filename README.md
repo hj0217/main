@@ -1,10 +1,12 @@
 
 <div class="d-flex flex-justify-between">
   <div class="text-mono" text-small mb-3"> 
-      <a href="/hj0217/main" class="" style="color: black; text-decoration: none;">hj0217</a>
+      <a href="/hj0217" class="text-dark" style="text-decoration: none; color: inherit;">hj0217</a>
       <span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>
-      README
-      <span class="color-fg-muted">.md </span>
+      <a href="/hj0217/main/readme.md" class="text-dark" >
+	README
+      </a>
+	<span class="color-fg-muted">.md </span>
   </div>
 </div>
 
@@ -16,11 +18,12 @@
 <p align="center" dir="auto">Tech that I've used</p>
 <p align="center" dir="auto">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"/>
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=black"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+
 
 	
  	
